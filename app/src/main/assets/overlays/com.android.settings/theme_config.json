@@ -1,0 +1,16 @@
+{
+	"themeName" : "Domination",
+	"themeAuthor" : "daveyannihilation",
+	"themeTemplates" : [
+	 	{
+	 		"id" : "cardColourTemplate",
+			"title" : "Card Colours",
+			"description" : "Choose your favorite Card Colours",
+			"templateFile" : "template_type1a.xml",
+			"templateType" : "type1a",
+			"themes" : {
+				"backgroundColourFloating" : "#ff111111"
+			}
+		}
+	]
+}

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="cardview_light_background">{backgroundColourFloating}</color>
+    <color name="cardview_dark_background">{backgroundColourFloating}</color>
+    <color name="dashboard_background_color">{backgroundColourFloating}</color>
+    <color name="dashboard_category_background_color">{backgroundColourFloating}</color>
+    <color name="card_background">{backgroundColourFloating}</color>
+    <color name="exposed_bg_dark">{backgroundColourFloating}</color>
+    <color name="confirm_device_credential_dark_background">{backgroundColourFloating}</color>
+    <color name="condition_card_background_color">{backgroundColourFloating}</color>
+    <color name="card_background_grey">{backgroundColourFloating}</color>
+</resources>

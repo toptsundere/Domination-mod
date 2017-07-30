@@ -1,0 +1,30 @@
+{
+	"themeName" : "Domination",
+	"themeAuthor" : "daveyannihilation",
+	"themeTemplates" : [
+		{
+			"id" : "accentColorTemplate",
+			"title" : "Accent Colours",
+			"description" : "Choose your favorite Accent Colours",
+			"templateFile" : "template_type1a.xml",
+			"templateType" : "type1a",
+			"themes" : {
+				"accentColour" : "#ff787878"
+			}
+		},
+	 	{
+	 		"id" : "backgroundColourTemplate",
+			"title" : "Background Colours",
+			"description" : "Choose your favorite Background Colours",
+			"templateFile" : "template_type1b.xml",
+			"templateType" : "type1b",
+			"themes" : {
+				"backgroundColour" : "#ff000000",
+				"backgroundColourFloating" : "#ff111111",
+				"buttonColour" : "#ff202020",
+				"primaryColour" : "#ff111111",
+				"primaryDarkColour" : "#ff000000"
+			}
+		}
+	]
+}
