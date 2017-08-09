@@ -62,7 +62,7 @@
     <color name="inline_composing_text_correction_material_dark_theme">#e6c9d1cb</color>
     <color name="inline_composing_text_correction_style_sheet_theme">#99000000</color>
     <color name="key_action_bordered_dark_theme">#cc353535</color>
-    <color name="key_action_pressed_bordered_dark_theme">#ff26a69a</color>
+    <color name="key_action_pressed_bordered_dark_theme">#ff1b1b1b</color>
     <color name="key_bordered_dark_theme">#1fffffff</color>
     <color name="key_dark_bordered_dark_theme">#0dffffff</color>
     <color name="key_dark_bordered_light_theme">#0d000000</color>
