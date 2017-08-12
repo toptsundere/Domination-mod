@@ -107,4 +107,8 @@
 	<color name="toolbar_bg_night_color">#ff000000</color>
 	<color name="bottombar_bg_secret_color">#ff000000</color>
     <color name="tab_manager_bottombar_bg_color_secret">#ff000000</color>
+    <color name="bottombar_text_high_contrast_night_color">#ff676ecf</color>
+    <color name="bottombar_icon_night_color">#ff676ecf</color>
+    <color name="bottombar_text_night_color">#ff676ecf</color>
+
 </resources>
