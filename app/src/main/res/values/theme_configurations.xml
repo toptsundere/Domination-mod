@@ -20,8 +20,12 @@
     <!-- Put your theme changelog here -->
     <string-array name="ThemeChangelog">
         <item>Based on Domination (Android System, Files, Package installer, Settings, SystemUI, substratum)</item>
-        <item>Changed custom Gboard themes - Grey buttons instead of fugly teal</item>
         <item>Added Pixel navigation bar without the ring</item>
         <item>Added ProductFrancisco and Twemoji fonts</item>
+        <item>"---"</item>
+        <item>1.3</item>
+        <item>Tweaked accent colours, add Amber and Rose</item>
+        <item>Added Twitter overlays - select between black, dark and with or without system colored accent!</item>
+        <item>Updated Samsung Internet - Light theme is light now, minor fixes</item>
     </string-array>
 </resources>
